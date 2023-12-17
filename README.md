@@ -1,28 +1,27 @@
-# CVIP Projects: Simple Calculator and Password Generator
+# CVIP Projects
 
-This repository contains two simple Python projects for Computer Vision and Image Processing (CVIP) – a basic calculator and a password generator.
+Welcome to the CodersCave repository! Here, you'll find a collection of small but useful projects for developers. Feel free to explore and use these projects to enhance your coding skills.
 
-## Project Descriptions
+## Projects
 
-### 1. Simple Calculator
+### 1. Calculator
 
-A straightforward console-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project is implemented in Python and is designed for simplicity and ease of understanding.
+- **Description:** A simple calculator that performs basic arithmetic operations.
+- **Usage:** Open the calculator and input your desired mathematical expression.
 
-## Features
+### 2. Random Password Generator
 
-- Addition
-- Subtraction
-- Multiplication
-- Divisio
+- **Description:** Generate strong and random passwords with customizable options.
+- **Usage:** Run the program and specify the desired length and character types for the password.
+
+### 3. Typing Speed Calculator
+
+- **Description:** Measure your typing speed by typing a given passage and receive instant feedback.
+- **Usage:** Input the provided text and start typing. The program will calculate your typing speed.
+
+### 4. Voice Recorder
+
+- **Description:** Record and save voice memos with this straightforward voice recorder.
+- **Usage:** Open the recorder, start recording, and save the audio file when finished.
 
 
-
-
-### 2. password genertor
-
-A simple password generator implemented in Python. This project allows users to generate strong and random passwords with customizable length and complexity.
-
-## Features
-
-- Generate random passwords with specified length.
-- Customize password complexity with options for including uppercase letters, lowercase letters, numbers, and symbols.
